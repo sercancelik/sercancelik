@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sercancelik
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Swift
+- 💞️ I’m love playing video games.
 - 📫 How to reach me via sercancelik@gmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sercancelik)](https://git.io/streak-stats)
